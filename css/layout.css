@@ -1,0 +1,7 @@
+/*  Layout flex and grid */
+
+.container {
+    width: 100%;
+    position: relative;
+    background-color: greenyellow;
+}
